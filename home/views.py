@@ -9,3 +9,5 @@ def login(request):
 
 def logout(request):
     render(request, 'index.html')
+
+#  pass of user Sahaj@2702
